@@ -8,19 +8,19 @@
 
 ## Analysis and Challenges
 
-Our base data set [**View Here**](./starterbook.xlsx) was a list of over 4,000 recent kickstarter campaigns. Categorizing these campaigns based on location, start and end dates, outcomes and goals we are able to create comparisons to help support answers to Louise's questions.
+Our base data set [**View Here**](/starterbook.xlsx) was a list of over 4,000 recent kickstarter campaigns. Categorizing these campaigns based on location, start and end dates, outcomes and goals we are able to create comparisons to help support answers to Louise's questions.
 
 ### Analysis of Outcomes Based on Launch Date
 
 The image below is a review of Kickstarter data for campaigns categorized as Theater/Plays, focusing specifically on outcome and campaign launch date.
 
-![Outcome_v_launch](./resources/Theater_outcomes_vs_launch.png)
+![Outcome_v_launch](/resources/Theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 The image below is a review of Kickstarter data for campaigns categorized as Theater/Plays, focusing specifically on outcome and campaign funding goals. This 
 
-![outcome_v_goal](./resources/outcomes_vs_goals.png)
+![outcome_v_goal](/resources/outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 
