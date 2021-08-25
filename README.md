@@ -24,6 +24,8 @@ The image below is a review of Kickstarter data for campaigns categorized as The
 
 ### Challenges and Difficulties Encountered
 
+During our research of Kickstarter campaigns, we thankfully did not run into any difficulties. Given the nature of the dataset though, there are many challenges that someone could encounter. When creating mustiple graphs that will be used to compare subsections of the data that are similar to eachother it is important to create continuity between formatting such as color schemes, graph types and filters. If the formating structure varies to much in between graphs, it is possible to come up with inaccurate conclusions about the data set being referenced.
+
 ## Results
 
 - Based on our review of **Theater Outcomes vs Launch Date** we can conclude that Theater focused Kickstarter campaigns have the highest success rates when starting in May, but have the lowest success rate when starting in December.
