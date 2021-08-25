@@ -8,7 +8,7 @@
 
 ## Analysis and Challenges
 
-Our base data set [**View Here**](./StarterBook.xlsx) was a list of over 4,000 recent kickstarter campaigns. Categorizing these campaigns based on location, start and end dates, outcomes and goals we are able to create comparisons to help support answers to Louise's questions.
+Our base data set [**View Here**](./Kickstarter_Challenge.xlsx) was a list of over 4,000 recent kickstarter campaigns. Categorizing these campaigns based on location, start and end dates, outcomes and goals we are able to create comparisons to help support answers to Louise's questions.
 
 ### Analysis of Outcomes Based on Launch Date
 
