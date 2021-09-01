@@ -24,17 +24,17 @@ The image below is a review of Kickstarter data for campaigns categorized as The
 
 ### Challenges and Difficulties Encountered
 
-During our research of Kickstarter campaigns, we thankfully did not run into any difficulties. Given the nature of the dataset though, there are many challenges that someone could encounter. When creating multiple graphs that will be used to compare subsections of the data that are similar to eachother it is important to create continuity between formatting such as color schemes, graph types and filters. If the formating structure varies to much in between graphs, it is possible to come up with inaccurate conclusions about the data set being referenced.
+During our research of Kickstarter campaigns, we thankfully did not run into any difficulties. Given the nature of the dataset though, there are many challenges that someone could encounter. When creating multiple graphs that will be used to compare subsections of the data that are similar to each other it is important to create continuity between formatting such as color schemes, graph types and filters. If the formatting structure varies to much in between graphs, it is possible to come up with inaccurate conclusions about the data set being referenced.
 
 ## Results
 
-- Based on our review of **Theater Outcomes vs Launch Date** we can conclude that Theater focused Kickstarter campaigns have the highest success rates when starting in May, but have the lowest success rate when starting in December.
+- Based on our review of **Theater Outcomes vs Launch Date** we can conclude that Theater focused Kickstarter campaigns have the highest success rates when starting in May but have the lowest success rate when starting in December.
 
 - What can you conclude about the Outcomes based on Goals?
-Based on our review of **Theater Outcomes vs Launch Date** we can conclude that Theater focused Kickstarter campaigns have the highest success rates when starting in May, but have the lowest success rate when starting in December with a steadily decreasing success rate in between.
+Based on our review of **Theater Outcomes vs Launch Date** we can conclude that Theater focused Kickstarter campaigns have the highest success rates when starting in May but have the lowest success rate when starting in December with a steadily decreasing success rate in between.
 
 - While this data set does give us a good picture of what to expect from a limited number of kickstarter campaigns, there are some limitations to the dataset.
-    - The Kickstarter campaigns we compared in this analysis do not break down into geographic location inside of country, assuming that major cities and rural towns have different interest rates in plays, the location that Lousie is planning to launch her play could effect the outcome of her funding campaign.
+    - The Kickstarter campaigns we compared in this analysis do not break down into geographic location inside of country, assuming that major cities and rural towns have different interest rates in plays, the location that Louise is planning to launch her play could affect the outcome of her funding campaign.
     - We were only able to review a limited number of Kickstarter campaigns between 2009 and 2017. Current interest level in new plays in 2021 could be different than previous years. 
 
 - Additional information to be explored could include:
